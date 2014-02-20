@@ -1,0 +1,18 @@
+edemgrade@gm/2014grade
+github/edemgrade/edemgrade@gm/2014grade
+anna.gabriel@fleetster.net
+jira> edem/2014grade
+http://actionbarsherlock.com/
+https://github.com/ragunathjawahar/android-saripaar
+http://projects.spring.io/spring-android/
+http://jira.nextgm.com/
+http://adf.ly/3103720/banner/http://rajeshvijayakumar.blogspot.in/2013/01/how-to-add-actionbarsherlock-library-to.html
+https://docs.google.com/forms/d/1dLcsudMhAFKUVhbcuVtQsyXavBa9M9PR-EkMucuhyCM/viewform
+https://github.com/octo-online/robospice
+http://docs.spring.io/spring-android/docs/1.0.x/reference/htmlsingle/
+https://github.com/octo-online/robospice/wiki/Starter-Guide
+http://wptrafficanalyzer.in/blog/creating-navigation-tabs-using-tabhost-and-fragments-in-android/
+http://androidresearch.wordpress.com/2013/08/21/example-using-viewpager-with-actionbarsherlock-tabs/
+http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/
+http://jira.nextgm.com:8080/secure/ConfigureReport!default.jspa?selectedProjectId=11300&projectOrFilterId=project-11300&projectOrFilterName=Android%20Kick%20Start&reportKey=jira-timesheet-plugin:report
+http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/
